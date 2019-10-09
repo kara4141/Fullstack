@@ -1,0 +1,17 @@
+h1 {
+	color: purple;
+	border-color: black;
+	border-width: 5px;
+/*	border-style: solid;*/
+	border: 5px dashed;
+}
+li{
+	color: green;
+}
+h4{
+	color: white;
+	background: black;
+}
+body{
+	background: pink;
+}
