@@ -1,0 +1,13 @@
+img{
+    width: 27%;
+    float: left;
+    margin: 2%
+}
+p{
+    font-family: 'Mansalva', cursive;
+    margin-left: 2.3%;
+    font-size: 27px;
+    text-transform: uppercase;
+    border-bottom: 2px dashed grey;
+    width: 30%;
+}
